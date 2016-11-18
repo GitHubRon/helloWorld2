@@ -1,3 +1,2 @@
 # helloWorld2
-My second repository
-\n Adding this in
+My 2nd repository    Adding this in
